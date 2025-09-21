@@ -1,0 +1,21 @@
+product_id,title,description,category,price,brand,rating,reviews,in_stock
+P001,iPhone 14 Pro,Latest Apple smartphone with advanced camera system,Electronics,999.99,Apple,4.8,1250,True
+P002,Samsung Galaxy S23,Android smartphone with great camera and performance,Electronics,799.99,Samsung,4.6,980,True
+P003,Nike Air Max 270,Comfortable running shoes with air cushioning,Shoes,129.99,Nike,4.4,750,True
+P004,Adidas Ultraboost 22,Premium running shoes with boost technology,Shoes,180.00,Adidas,4.5,620,True
+P005,MacBook Pro 16,Professional laptop for work and creative tasks,Electronics,2499.99,Apple,4.9,890,True
+P006,Dell XPS 13,Ultrabook laptop with excellent build quality,Electronics,1199.99,Dell,4.3,540,True
+P007,Red Evening Dress,Elegant evening dress for special occasions,Clothing,89.99,Fashion Brand,4.2,180,True
+P008,Blue Denim Jeans,Classic denim jeans with comfortable fit,Clothing,59.99,Denim Co,4.1,320,True
+P009,Wireless Headphones,Noise-cancelling wireless headphones,Electronics,199.99,Sony,4.7,450,True
+P010,Running Shorts,Lightweight running shorts for athletes,Clothing,29.99,Nike,4.3,280,True
+P011,Gaming Laptop,High-performance laptop for gaming,Electronics,1599.99,ASUS,4.6,380,True
+P012,Winter Jacket,Warm winter jacket for cold weather,Clothing,149.99,North Face,4.4,190,True
+P013,Smart Watch,Fitness tracking smartwatch with health monitoring,Electronics,299.99,Apple,4.5,670,True
+P014,Canvas Sneakers,Casual canvas sneakers for everyday wear,Shoes,79.99,Converse,4.2,410,True
+P015,Bluetooth Speaker,Portable wireless speaker with great sound,Electronics,89.99,JBL,4.3,290,True
+P016,Summer Dress,Light and breezy summer dress,Clothing,49.99,Zara,4.0,150,True
+P017,Leather Boots,Stylish leather boots for men and women,Shoes,159.99,Timberland,4.4,220,True
+P018,Tablet,10-inch tablet for reading and entertainment,Electronics,399.99,iPad,4.6,340,True
+P019,Yoga Pants,Comfortable yoga pants for fitness,Clothing,39.99,Lululemon,4.5,180,True
+P020,Mechanical Keyboard,Gaming mechanical keyboard with RGB lighting,Electronics,129.99,Razer,4.4,160,True

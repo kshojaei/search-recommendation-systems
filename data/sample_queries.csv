@@ -1,0 +1,16 @@
+query,user_id,timestamp,clicked_product_id,purchased_product_id,revenue
+iPhone,user_001,2024-01-15 10:30:00,P001,P001,999.99
+laptop,user_002,2024-01-15 11:15:00,P005,,0.00
+running shoes,user_003,2024-01-15 12:00:00,P003,P003,129.99
+Apple,user_004,2024-01-15 13:45:00,P001,,0.00
+cheap laptop,user_005,2024-01-15 14:20:00,P006,P006,1199.99
+dress,user_006,2024-01-15 15:10:00,P007,,0.00
+wireless headphones,user_007,2024-01-15 16:30:00,P009,P009,199.99
+gaming,user_008,2024-01-15 17:00:00,P011,,0.00
+winter jacket,user_009,2024-01-15 18:15:00,P012,P012,149.99
+smart watch,user_010,2024-01-15 19:00:00,P013,,0.00
+Nike shoes,user_011,2024-01-15 20:30:00,P003,P003,129.99
+MacBook,user_012,2024-01-15 21:00:00,P005,,0.00
+red dress,user_013,2024-01-15 22:15:00,P007,P007,89.99
+bluetooth speaker,user_014,2024-01-16 09:30:00,P015,,0.00
+yoga pants,user_015,2024-01-16 10:45:00,P019,P019,39.99
