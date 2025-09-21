@@ -108,25 +108,6 @@ search-systems setup --data --notebooks
 └── README.md          # This file
 ```
 
-## 🤝 Contributing
-
-- Add new notebooks
-- Improve existing content
-- Share interview experiences
-- Suggest additional topics
-
-## 📞 Support
-
-Open an issue for questions or clarifications.
-
-## 🎯 Interview Tips
-
-- Focus on business impact
-- Discuss trade-offs
-- Explain complex concepts simply
-- Prepare examples from experience
-- Understand industry-specific challenges
-
 ---
 
 **Happy Learning! 🚀**
