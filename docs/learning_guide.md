@@ -1,8 +1,8 @@
-# Walmart Search & Recommendation Systems - Learning Guide
+# Search & Recommendation Systems - Learning Guide
 
-## 🎯 Overview
+## Overview
 
-This guide will help you prepare for Walmart Data Scientist III (Search) interviews by building a comprehensive understanding of search systems, recommendation engines, and large-scale data science.
+This guide will help you prepare for Search & Recommendation Systems interviews by building a comprehensive understanding of search systems, recommendation engines, and large-scale data science.
 
 ## 📚 Learning Path
 
@@ -86,9 +86,9 @@ This guide will help you prepare for Walmart Data Scientist III (Search) intervi
 
 **Online Courses**: Stanford CS276: Information Retrieval and Web Search; Coursera: Recommender Systems Specialization; edX: Introduction to Computational Thinking and Data Science
 
-## 🎯 Walmart-Specific Preparation
+## Industry-Specific Preparation
 
-1. **Company Research**: Walmart's search challenges, international markets, product diversity, scale requirements
+1. **Company Research**: E-commerce search challenges, international markets, product diversity, scale requirements
 2. **Industry Knowledge**: E-commerce trends, search technology, recommendation systems, A/B testing best practices
 3. **Technical Deep Dives**: Large-scale systems, real-time processing, machine learning at scale, data engineering
 
@@ -110,4 +110,4 @@ This guide will help you prepare for Walmart Data Scientist III (Search) intervi
 
 ---
 
-**Remember: The goal is not just to pass the interview, but to become a better data scientist who can make real impact at Walmart! 🚀**
+**Remember: The goal is not just to pass the interview, but to become a better data scientist who can make real impact in search and recommendation systems!**

@@ -1,8 +1,8 @@
-# Walmart Search & Recommendation Systems - Project Overview
+# Search & Recommendation Systems - Project Overview
 
-## 🎯 Project Mission
+## Project Mission
 
-This project is designed to help data scientists prepare for **Walmart Data Scientist III (Search)** positions by providing hands-on experience with search systems, recommendation engines, and large-scale data science challenges.
+This project is designed to help data scientists prepare for **Search & Recommendation Systems** positions by providing hands-on experience with search systems, recommendation engines, and large-scale data science challenges.
 
 ## 🏗️ Project Architecture
 

@@ -1,8 +1,8 @@
-# Walmart Search & Recommendation Systems Interview Preparation
+# Search & Recommendation Systems Interview Preparation
 
 ## 🎯 Project Overview
 
-This repository is designed to help data scientists prepare for **Walmart Data Scientist III (Search)** positions. It covers all essential topics including search systems, recommendation engines, A/B testing, optimization, and large-scale system design.
+This repository is designed to help data scientists prepare for **Search & Recommendation Systems** positions. It covers all essential topics including search systems, recommendation engines, A/B testing, optimization, and large-scale system design.
 
 ## 📚 Learning Path
 
@@ -63,8 +63,8 @@ This repository is designed to help data scientists prepare for **Walmart Data S
 ### Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/walmart-search-learning.git
-cd walmart-search-learning
+git clone https://github.com/yourusername/search-recommendation-systems.git
+cd search-recommendation-systems
 
 # Set up virtual environment
 python -m venv venv
@@ -87,7 +87,7 @@ jupyter lab
 pip install -e .
 
 # Using the CLI
-walmart-search setup --data --notebooks
+search-systems setup --data --notebooks
 ```
 
 ### Start Learning
@@ -125,7 +125,7 @@ Open an issue for questions or clarifications.
 - Discuss trade-offs
 - Explain complex concepts simply
 - Prepare examples from experience
-- Understand Walmart's specific challenges
+- Understand industry-specific challenges
 
 ---
 
